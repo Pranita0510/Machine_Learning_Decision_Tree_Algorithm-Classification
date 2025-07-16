@@ -1,4 +1,4 @@
-🌳 Decision Tree Classification:
+**🌳 Decision Tree Classification:**
 
 This Jupyter Notebook demonstrates the implementation of the Decision Tree Classification algorithm using Scikit-learn. It is designed to classify categorical outcomes based on input features using a tree-like structure.
 
